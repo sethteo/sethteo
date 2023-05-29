@@ -15,7 +15,7 @@
 <div id="body" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFmOTljYTNmMjFjMGEwNzlmMzJiYjkyNGMyMjI4OWQ2ZThiNTVmOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif" width="60%"/>
 
-    ---
+  ---
 
 
   ### :man_technologist: About Me:
