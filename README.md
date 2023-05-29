@@ -25,11 +25,10 @@
 
 
   ### :man_technologist: About Me:
-  
-  <div align="left">
-    - Currently pursuing a Bachelor's Degree in Information Systems
-    - Passionate in full stack development
-  </div>
+
+  - Currently pursuing a Bachelor's Degree in Information Systems
+  - Passionate in full stack development
+
 
 
 
