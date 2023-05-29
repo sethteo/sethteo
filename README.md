@@ -54,7 +54,6 @@
   ### :fire: My Stats :
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sethteo&theme=highcontrast)](https://git.io/streak-stats)
-  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethteo&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
 
