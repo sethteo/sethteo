@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA3MmQ0NjcyOTFhMmRiYjkwMjljZTg5Mjk0ZjdlMjE5Y2IzNzZkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/FAFo1M7EC4gRZ4HETH/giphy.gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA3MmQ0NjcyOTFhMmRiYjkwMjljZTg5Mjk0ZjdlMjE5Y2IzNzZkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/FAFo1M7EC4gRZ4HETH/giphy.gif" width="30%" border-radius="50%"/>
   <div>
   <a href="https://www.linkedin.com/in/hongruiteo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
