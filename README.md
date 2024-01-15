@@ -27,7 +27,7 @@
 
   ### :man_technologist: About Me:
 
-  - Currently pursuing a Bachelor's Degree in Information Systems
+  - Currently pursuing a Bachelor's Degree in Computer Science
   - Passionate in full stack development
 
 
