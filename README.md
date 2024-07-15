@@ -27,10 +27,8 @@ const hongrui = {
   {
       cuisine: "Japanese",
       activity: "Gymming",
-      music: "Rap",
-      quote: "The greatest glory in living lies not in never falling, but in rising every time we fall."
-  },
- challenge: "1 Leetcode question a day!"
+      music: "Rap"
+  }
 }
 ```
 
