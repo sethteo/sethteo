@@ -6,6 +6,7 @@
 
   - Year 3 Computer Science Undergraduate at <a href="https://www.nus.edu.sg/">The National University of Singapore</a>
   - My <a href="https://www.teohongrui.com">Portfolio</a>
+  - Full time bug developer
   
   <p>
       <a href="https://www.linkedin.com/in/hongruiteo/">
@@ -22,13 +23,7 @@
 const hongrui = {
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Docker],
-  databases: [MySql, MongoDB],
-  funfacts:
-  {
-      cuisine: "Japanese",
-      activity: "Gymming",
-      music: "Rap"
-  }
+  databases: [MySql, MongoDB]
 }
 ```
 
